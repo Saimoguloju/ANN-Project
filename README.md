@@ -1,6 +1,5 @@
-[app](https://ann-project-d2pqezobe2gj3yvwaqctsx.streamlit.app)
 
-# Artificial Neural Network Project
+# [Artificial Neural Network Project](https://ann-project-d2pqezobe2gj3yvwaqctsx.streamlit.app)
 
 ### Description
 - This repository contains a project focused on developing and training an Artificial Neural Network (ANN). The project involves:
@@ -59,7 +58,7 @@
 - Clone the Repository:
 
 ```python
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/Saimoguloju/ANN-Project.git
 cd your-repository-name
 ```
 
