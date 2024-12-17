@@ -19,7 +19,7 @@
 
 - [How to Run the Project](https://github.com/Saimoguloju/ANN-Project/blob/master/README.md#how-to-run-the-project)
 
-- Results and Performance
+- [Results and Performance](https://github.com/Saimoguloju/ANN-Project/blob/master/README.md#results-and-performance)
 
  
 
