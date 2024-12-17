@@ -15,7 +15,7 @@
 
 - [Technologies Used](https://github.com/Saimoguloju/ANN-Project/blob/master/README.md#technologies-used)
 
-- Setup and Installation
+- [Setup and Installation](https://github.com/Saimoguloju/ANN-Project/blob/master/README.md#setup-and-installation)
 
 - How to Run the Project
 
