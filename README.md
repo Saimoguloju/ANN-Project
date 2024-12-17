@@ -17,7 +17,7 @@
 
 - [Setup and Installation](https://github.com/Saimoguloju/ANN-Project/blob/master/README.md#setup-and-installation)
 
-- How to Run the Project
+- [How to Run the Project](https://github.com/Saimoguloju/ANN-Project/blob/master/README.md#how-to-run-the-project)
 
 - Results and Performance
 
