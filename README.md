@@ -88,6 +88,8 @@ pip install -r requirements.txt
 
 ### Results and Performance
 
+![alt image](https://github.com/Saimoguloju/ANN-Project/blob/master/image.png)
+
 - After training the ANN, the model's performance (accuracy, loss, etc.) will be displayed.
 
 - Visualizations of training history and predictions will be provided in the notebook.
