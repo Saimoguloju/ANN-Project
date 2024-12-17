@@ -13,7 +13,7 @@
 
 - [Project Overview](https://github.com/Saimoguloju/ANN-Project/blob/master/README.md#project-overview)
 
-- Technologies Used
+- [Technologies Used](https://github.com/Saimoguloju/ANN-Project/blob/master/README.md#technologies-used)
 
 - Setup and Installation
 
