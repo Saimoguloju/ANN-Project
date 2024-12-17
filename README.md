@@ -8,85 +8,91 @@
 - Building, training, and evaluating the ANN model.
 - Performing predictions and analyzing results.
 
-The project is implemented in a Jupyter Notebook environment using Python.
+### The project is implemented in a Jupyter Notebook environment using Python.
 
-Table of Contents
+##### Table of Contents
 
-Project Overview
+- Project Overview
 
-Technologies Used
+- Technologies Used
 
-Setup and Installation
+- Setup and Installation
 
-How to Run the Project
+- How to Run the Project
 
-Results and Performance
+- Results and Performance
 
-License
+ 
 
-Project Overview
+### Project Overview
 
-The notebook processes the input dataset, combines encoded features with the original data, and trains an ANN model. The key steps include:
+- The notebook processes the input dataset, combines encoded features with the original data, and trains an ANN model. The key steps include:
 
-Data Cleaning and Preparation.
+- Data Cleaning and Preparation.
 
-Feature Encoding and Transformation.
+- Feature Encoding and Transformation.
 
-ANN Model Development.
+- ANN Model Development.
 
-Model Training and Evaluation.
+- Model Training and Evaluation.
 
-Technologies Used
+### Technologies Used
 
-The following Python libraries and tools are required to run this project:
+- The following Python libraries and tools are required to run this project:
 
-Python 3.12.2
+- Python 3.12.2
 
-Jupyter Notebook
+- Jupyter Notebook
 
-TensorFlow/Keras - for building and training the ANN model.
+- TensorFlow/Keras - for building and training the ANN model.
 
-Pandas - for data manipulation and preprocessing.
+- Pandas - for data manipulation and preprocessing.
 
-NumPy - for numerical computations.
+- NumPy - for numerical computations.
 
-Scikit-learn - for preprocessing and model evaluation.
+- Scikit-learn - for preprocessing and model evaluation.
 
-Matplotlib/Seaborn - for data visualization.
+- Matplotlib/Seaborn - for data visualization.
 
-Setup and Installation
+### Setup and Installation
 
-Clone the Repository:
+- Clone the Repository:
 
+```python
 git clone https://github.com/yourusername/your-repository-name.git
 cd your-repository-name
+```
 
-Create a Virtual Environment (optional but recommended):
+- Create a Virtual Environment (optional but recommended):
 
+```python
 python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+```
 
-Install Dependencies:
-Install the required libraries using pip:
+- Install Dependencies:
+- Install the required libraries using pip:
 
+```python
 pip install -r requirements.txt
+```
 
-How to Run the Project
+### How to Run the Project
 
-Launch Jupyter Notebook:
+- Launch Jupyter Notebook:
 
-jupyter notebook
+- jupyter notebook
 
-Open the notebook file ANN_Project.ipynb.
+- Open the notebook file ANN_Project.ipynb.
 
-Run the cells sequentially to execute the code.
+- Run the cells sequentially to execute the code.
 
-Results and Performance
+### Results and Performance
 
-After training the ANN, the model's performance (accuracy, loss, etc.) will be displayed.
+- After training the ANN, the model's performance (accuracy, loss, etc.) will be displayed.
 
-Visualizations of training history and predictions will be provided in the notebook.
+- Visualizations of training history and predictions will be provided in the notebook.
 
-License
 
-This project is licensed under the MIT License. Feel free to use and modify it.
+
+
